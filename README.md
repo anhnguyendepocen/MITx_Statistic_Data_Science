@@ -47,4 +47,4 @@ What are the key concepts covered in each course?   ¶
 At your discretion, to finish in a reduced time, 14.310x (Data Analysis in Social Science) may be taken in conjunction with either 18.6501x (Fundamentals of Statistics) or 6.86x (Machine Learning with Python) as a standalone class.
 
 
-
+Python will be used in 6.686x, and R is covered in 18.6501x. Please note, it is assumed learners are comfortable with Python before starting this MicroMasters program. R will be reviewed.
